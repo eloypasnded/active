@@ -1,4 +1,2 @@
-telebot
 requests
-uvicorn==0.12.2
-fastapi==0.63.0
+
